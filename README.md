@@ -37,4 +37,4 @@ Lembrando que deve ser possível também converter de forma inversa. E como desa
 - Java
 - Eclipse IDE
 
-<h4> :pen: Iara Varjão - Julho/2023</h4>
+<h4> :Dta 23 de outubro</h4>
